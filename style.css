@@ -1,8 +1,4 @@
-/* general styling */
-:root {
-    --smaller: .75;
-  }
-  
+
   * {
     box-sizing: border-box;
     margin: 0;
